@@ -13,6 +13,6 @@ Welcome to the Open Source Community Repository, your gateway to the exciting wo
 <hr>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/the-puff-adder](https://www.linkedin.com/company/puff-adders/)https://www.linkedin.com/company/puff-adders/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/puff-adders/)]
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/james-ngandu/) 
 
