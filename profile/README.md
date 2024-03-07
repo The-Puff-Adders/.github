@@ -4,7 +4,9 @@ Join us in making a difference through shared knowledge and collective effort. S
 
 ## Steps to get started
 Join the **Puff Adders** GitHub Org by raising an [issue](https://github.com/The-Puff-Adders/support/issues/new?assignees=&labels=invite+me+to+the+organisation&projects=&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) (you will receive an invitation)
-<a href="https://github.com/The-Puff-Adders/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Puff+Adders+Community+"><button >Join our Community </button></a>
+<a href="https://github.com/The-Puff-Adders/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+Puff+Adders+Community+">
+<br>
+<button >Join our Community </button></a>
 
 
 
@@ -14,5 +16,6 @@ Welcome to the Open Source Community Repository, your gateway to the exciting wo
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/puff-adders/)
+[!Telegram](https://t.me/The_puff_adders)
 
 
