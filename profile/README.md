@@ -16,7 +16,6 @@ Welcome to the Open Source Community Repository, your gateway to the exciting wo
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/puff-adders/)
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat-square&logo=telegram&logoColor=white)](https://t.me/The_puff_adders)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=flat-square&logo=telegram&logoColor=white)](https://t.me/puff_adders)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FXwNnlLM0BC55A4bSH83Zh)
-
 
